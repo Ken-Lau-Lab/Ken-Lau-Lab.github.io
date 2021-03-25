@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Lau Lab Software
-subtitle:
+title:              Lau Lab Software
+#subtitle:
 description: Info and documentation for software tools developed in the Lau Lab at Vanderbilt University
 author: Ken Lau Lab
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: https://ken-lau-lab.github.io
 baseurl: /jekyll-theme-next
 permalink: pretty
 
