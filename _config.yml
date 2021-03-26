@@ -83,7 +83,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: False
 
 # Specify the date when the site was setup
 #since: 2015
@@ -225,7 +225,7 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
+  GitHub: https://ken-lau-lab.github.io || github
   Twitter: twitter
   Weibo: weibo
 
