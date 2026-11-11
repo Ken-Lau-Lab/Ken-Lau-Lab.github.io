@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: https://kenlaulab.org/
+subtitle: <a href='https://kenlaulab.org/'>kenlaulab.org</a>
 
 profile:
   align: right
