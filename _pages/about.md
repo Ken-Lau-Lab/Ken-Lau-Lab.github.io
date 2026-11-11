@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About # the navbar label is taken from this title; the visible heading is written in the body below
+title: about # the navbar label is taken from this title; the visible heading is written in the body below
 permalink: /
 # The `page` layout is used instead of `about` so that latest posts can sit beside the profile image
 # (the `about` layout wraps the body in a clearfix, which forces everything below the floated image).
@@ -25,7 +25,7 @@ _styles: >
 </div>
 <div class="home-grid">
 <div class="home-main">
-<h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a></h2>
+<h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest Posts</a></h2>
 <div class="news"><div class="table-responsive"><table class="table table-sm table-borderless">
 {% for item in recent_items limit: 3 %}
 <tr><th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th><td><a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a></td></tr>
