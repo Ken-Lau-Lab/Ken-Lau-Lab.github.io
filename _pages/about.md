@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Softwares, Tutorials, and SOPs from the Lau Lab.
+subtitle: "<strong>Softwares, Tutorials, and SOPs from the Lau Lab.</strong>"
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
     <p>MRBIII 9271</p>
     <p>465 21st Ave S</p>
     <p>Nashville, TN 37232</p>
+    <p>Lab Website: <a href='https://kenlaulab.org/'>kenlaulab.org</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,5 +27,3 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-Lab Website: <a href='https://kenlaulab.org/'>kenlaulab.org</a>
