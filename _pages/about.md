@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://kenlaulab.org/'>kenlaulab.org</a>
+subtitle: Softwares, Tutorials, and SOPs from the Lau Lab.
 
 profile:
   align: right
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Softwares, Tutorials, and SOPs from the Lau lab.
+Lab Website: <a href='https://kenlaulab.org/'>kenlaulab.org</a>
