@@ -22,7 +22,7 @@ _styles: >
 
 <div class="home-header">
 <h1 class="post-title">Ken Lau Lab</h1>
-<p class="post-description"><strong>Softwares, Tutorials, and SOPs from the Lau Lab.</strong></p>
+<p class="post-description"><strong>Softwares, Tutorials, and SOPs from the Lau Lab</strong></p>
 </div>
 <div class="home-grid">
 <div class="home-main">
