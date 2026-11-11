@@ -6,6 +6,7 @@ permalink: /
 # (the `about` layout wraps the body in a clearfix, which forces everything below the floated image).
 # Posts AND any page that has a `date:` in its front matter (e.g. a new SOP) are listed under "latest posts".
 _styles: >
+  .home-header .post-description { font-size: 1.5rem; font-weight: 700; }
   .post-header { display: none; }
   .home-grid { display: flex; gap: 2rem; align-items: flex-start; }
   .home-main { flex: 1 1 auto; min-width: 0; }
