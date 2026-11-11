@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about # the navbar label is taken from this title; the visible heading is written in the body below
+title: About # the navbar label is taken from this title; the visible heading is written in the body below
 permalink: /
 # The `page` layout is used instead of `about` so that latest posts can sit beside the profile image
 # (the `about` layout wraps the body in a clearfix, which forces everything below the floated image).
