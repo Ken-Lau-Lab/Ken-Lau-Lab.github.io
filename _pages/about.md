@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: https://kenlaulab.org/
 
 profile:
   align: right
