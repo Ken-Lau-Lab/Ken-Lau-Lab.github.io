@@ -34,7 +34,7 @@ _styles: >
 </table></div></div>
 </div>
 <aside class="home-profile">
-<img class="img-fluid z-depth-1 rounded" src="{{ '/assets/img/laulab.png' | relative_url }}" alt="Lau Lab">
+<img class="img-fluid z-depth-1 rounded" src="{{ '/assets/img/lab.png' | relative_url }}" alt="Lau Lab">
 <div class="more-info">
 <p>MRBIII 9271</p>
 <p>465 21st Ave S</p>
