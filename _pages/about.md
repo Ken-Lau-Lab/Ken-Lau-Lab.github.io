@@ -9,11 +9,11 @@ profile:
   image: laulab.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 MRBIII 9271</p>
-    <p>123 465 21st Ave S</p>
+    <p>MRBIII 9271</p>
+    <p>465 21st Ave S</p>
     <p>Nashville, TN 37232</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
