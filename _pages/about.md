@@ -6,7 +6,7 @@ subtitle: <a href='https://kenlaulab.org/'>kenlaulab.org</a>
 
 profile:
   align: right
-  image: laulab.jpg
+  image: laulab.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>MRBIII 9271</p>
