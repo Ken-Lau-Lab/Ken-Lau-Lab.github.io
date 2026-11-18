@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: Resources
 nav: true
 nav_order: 8
 dropdown: true
