@@ -1,14 +1,21 @@
+<!-- 
 github_users:
   - torvalds
   - alshedivat
+-->
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Ken-Lau-Lab/spatial_CRC_atlas
+  - Ken-Lau-Lab/single-cell-lectures
+  - Ken-Lau-Lab/NSC-seq
+  - Ken-Lau-Lab/AmbiQuant
+  - Ken-Lau-Lab/STAR_Methods
+  - Ken-Lau-Lab/spatial_CRC_atlas_imaging
+  - Ken-Lau-Lab/Ensemble-SCENIC
+  - Ken-Lau-Lab/qISC
+  - Ken-Lau-Lab/MTGR1_SI_stem_cell_analysis
+  - Ken-Lau-Lab/CCSB_DataClub
+  - Ken-Lau-Lab/IL23Ranalysis
+  - Ken-Lau-Lab/miRNA_CSNK_human_analysis
