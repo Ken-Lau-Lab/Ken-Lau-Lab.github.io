@@ -9,8 +9,6 @@ toc:
   sidebar: left
 ---
 
-# Lau Lab NAS — Standard Operating Procedure
-
 ## Overview
 
 | NAS | Capacity | Notes |
