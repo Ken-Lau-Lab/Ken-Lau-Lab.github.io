@@ -3,7 +3,7 @@ layout: post
 title: Lau Lab Server Standard Operating Procedure
 date: 2026-11-19 12:00:00
 description: how to connect to and responsibly use the lab's Threadripper, Matisse and Athena analysis servers
-tags: sop server
+tags: computational
 categories: sops
 toc:
   sidebar: left
