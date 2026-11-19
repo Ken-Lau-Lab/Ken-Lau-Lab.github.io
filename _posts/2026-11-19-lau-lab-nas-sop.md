@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lau Lab NAS Standard Operating Procedure
+title: Lau Lab NAS SOP
 date: 2026-11-19 12:00:00
 description: how to access and use the lab's Polaris, Rosalind and Synology NAS storage
 tags: computational
