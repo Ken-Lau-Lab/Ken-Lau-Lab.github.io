@@ -21,8 +21,8 @@ _styles: >
 {% assign recent_items = site.posts | concat: dated_pages | sort: "date" | reverse %}
 
 <div class="home-header">
-<h1 class="post-title"><strong>Ken Lau Lab</strong></h1>
-<p class="post-description"><strong>SOPs, repositories, and resources from the Lau Lab</strong></p>
+<h1 class="post-title"><strong>Ken Lau Lab Resource Hub</strong></h1>
+<p class="post-description"><strong>SOPs, repositories, resources, and more from the Lau Lab</strong></p>
 </div>
 <div class="home-grid">
 <div class="home-main">
