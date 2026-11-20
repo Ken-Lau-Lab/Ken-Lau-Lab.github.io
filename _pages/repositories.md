@@ -5,6 +5,8 @@ title: Repositories
 description: Edit `_data/repositories.yml` to update repositories.
 nav: true
 nav_order: 4
+_styles: >
+  #github-users, #github-users + .repositories, #github-users + .repositories + hr { display: none; }
 ---
 
 {% if site.data.repositories.github_users %}
