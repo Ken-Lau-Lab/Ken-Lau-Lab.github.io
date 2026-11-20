@@ -9,6 +9,8 @@ _styles: >
   #github-users, #github-users + .repositories, #github-users + .repositories + hr { display: none; }
 ---
 
+[Ken-Lau-Lab on GitHub](https://github.com/Ken-Lau-Lab)
+
 {% if site.data.repositories.github_users %}
 
 ## GitHub users
