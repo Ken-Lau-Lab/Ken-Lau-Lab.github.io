@@ -137,7 +137,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Lau Lab SOPs # blog_name will be displayed in your blog page
-blog_description: Standard operating procedures within the Lau Lab
+blog_description: Standard Operating Procedures in the Lau Lab
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
